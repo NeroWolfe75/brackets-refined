@@ -14,3 +14,7 @@ All notable changes to **Brackets Refined** will be documented in this file.
 - TypeScript/JavaScript syntax and semantic highlighting refinements.
 - Terminal ANSI palette.
 - Git, diagnostics, diff, merge, notification, status bar, and symbol icon colors.
+
+## [1.0.1] - 2026-09-04
+
+- Updated Python and TypeScript screenshots to reflect the final Brackets Refined theme.
