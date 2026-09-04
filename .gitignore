@@ -6,3 +6,4 @@ Thumbs.db
 .venv/
 images/banner-square.png
 images/icon-source.png
+.vscode/settings.json
