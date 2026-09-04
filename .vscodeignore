@@ -10,3 +10,4 @@ preview.py
 preview.ts
 images/icon-source.png
 images/banner-square.png
+.venv/**
