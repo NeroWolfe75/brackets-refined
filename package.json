@@ -1,0 +1,50 @@
+{
+  "name": "brackets-refined",
+  "displayName": "Brackets Refined",
+  "description": "A carefully refined dark theme inspired by Brackets, built for modern Visual Studio Code.",
+  "version": "1.0.0",
+  "publisher": "NeroWolfe",
+  "author": "NeroWolfe75",
+  "icon": "images/icon.png",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "color theme",
+    "brackets",
+    "brackets refined",
+    "semantic highlighting"
+  ],
+  "pricing": "Free",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NeroWolfe75/brackets-refined.git"
+  },
+  "homepage": "https://github.com/NeroWolfe75/brackets-refined#readme",
+  "bugs": {
+    "url": "https://github.com/NeroWolfe75/brackets-refined/issues"
+  },
+  "galleryBanner": {
+    "color": "#181A1B",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Brackets Refined",
+        "uiTheme": "vs-dark",
+        "path": "./themes/brackets-refined-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "npx --yes @vscode/vsce@3.9.2 package",
+    "verify": "npx --yes @vscode/vsce@3.9.2 ls"
+  }
+}

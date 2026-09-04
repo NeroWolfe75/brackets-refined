@@ -1,0 +1,8 @@
+node_modules/
+*.vsix
+.DS_Store
+Thumbs.db
+.vscode-test/
+.venv/
+images/banner-square.png
+images/icon-source.png

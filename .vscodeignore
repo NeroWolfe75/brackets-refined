@@ -1,0 +1,12 @@
+.github/**
+.vscode/**
+.gitignore
+RELEASE-CHECKLIST.md
+CONTRIBUTING.md
+SUPPORT.md
+*.vsix
+node_modules/**
+preview.py
+preview.ts
+images/icon-source.png
+images/banner-square.png
