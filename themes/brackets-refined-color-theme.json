@@ -769,6 +769,14 @@
     },
 
     {
+      "name": "CSS Numeric Values and Units",
+      "scope": ["constant.numeric.css", "keyword.other.unit"],
+      "settings": {
+        "foreground": "#E5C07B"
+      }
+    },
+
+    {
       "name": "Booleans",
       "scope": ["constant.language.boolean"],
       "settings": {
