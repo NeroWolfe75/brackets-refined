@@ -24,7 +24,7 @@
 
     "icon.foreground": "#A6B0BB",
 
-    "selection.background": "#264F78",
+    "selection.background": "#61AFEF40",
 
     // =====================================================
     // WINDOW
@@ -389,6 +389,13 @@
 
     "inputOption.activeBackground": "#61AFEF18",
     "inputOption.hoverBackground": "#23272B",
+
+    // =====================================================
+    // EDITOR WIDGETS
+    // =====================================================
+    "editorWidget.background": "#202325",
+    "editorWidget.foreground": "#D8DEE9",
+    "editorWidget.border": "#2C3136",
 
     // =====================================================
     // DROPDOWN
